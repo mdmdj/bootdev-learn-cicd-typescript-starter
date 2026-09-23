@@ -1,6 +1,6 @@
 # learn-cicd-typescript-starter (Notely)
 
-![CI Status](IMAGE_URLhttps://github.com/mdmdj/bootdev-learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
+![CI Status](https://github.com/mdmdj/bootdev-learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
 
 
 
